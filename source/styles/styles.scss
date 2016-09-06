@@ -1,0 +1,14 @@
+@import '../../vendors/fonts/font-awesome/scss/font-awesome';
+@import '../../vendors/fonts/font-icon/font-icons';
+@import 'bootstrap';
+@import 'variables';
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+a{
+  color: #a00010;
+  font-size: 2em;
+}

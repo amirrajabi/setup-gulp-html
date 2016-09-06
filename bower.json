@@ -1,0 +1,15 @@
+{
+  "name": "setup-gulp-html",
+  "description": "setup project for static website.",
+  "authors": [
+    "AMIR RAJABI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
