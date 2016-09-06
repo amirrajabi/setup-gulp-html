@@ -1,21 +1,14 @@
 {
   "name": "setup-gulp-html",
   "version": "0.1.0",
-  "description": "setup project for static website.",
-  "babel": {
-    "presets": [
-      "es2015"
-    ],
-    "sourceMaps": true
-  },
+  "description": "setup front end project for static website.",
   "authors": [
     "AMIR RAJABI"
   ],
-  "license": "MIT",
-  "homepage": "",
+  "license": "HOOR",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:amirrajabi/setup-gulp-html.git"
   },
   "scripts": {
     "init": "npm install",

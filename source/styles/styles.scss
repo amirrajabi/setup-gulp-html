@@ -2,13 +2,5 @@
 @import '../../vendors/fonts/font-icon/font-icons';
 @import 'bootstrap';
 @import 'variables';
-
-body {
-  padding: 0;
-  margin: 0;
-}
-
-a{
-  color: #a00010;
-  font-size: 2em;
-}
+@import 'base';
+@import 'modules/home';
